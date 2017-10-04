@@ -5,6 +5,7 @@
  */
 package practica2;
 
+
 import java.util.HashMap;
 import java.util.Map;
 import javax.swing.JOptionPane;
